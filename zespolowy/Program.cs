@@ -2,6 +2,16 @@
 
 namespace zespolowy
 {
+    interface IOperacje
+    {
+        float Wykonaj(float liczba1, float liczba2);
+        
+    }
+    //class Dodawanie 
+    ////{
+
+    ////}
+
     class Program
     {
         static void Main(string[] args)
