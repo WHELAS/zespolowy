@@ -19,7 +19,7 @@ namespace zespolowy
     {
         static void Main(string[] args)
         {
-            Dodawanie d = new Dodawanie();
+            IOperacje d = new Dodawanie();
             Console.WriteLine(d.Wykonaj(10, 2));
         }
 
