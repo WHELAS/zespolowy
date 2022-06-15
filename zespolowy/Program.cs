@@ -11,11 +11,8 @@ namespace zespolowy
 
         static string WypiszImie()
         {
-            return "Dominik";
-        }
-        static string WypiszImie2()
-        {
             return "Filip";
         }
+       
     }
 }
