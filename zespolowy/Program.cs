@@ -11,7 +11,7 @@ namespace zespolowy
 
         static string WypiszImie()
         {
-            return "Dominik";
+            return "Dominik__";
         }
     }
 }
