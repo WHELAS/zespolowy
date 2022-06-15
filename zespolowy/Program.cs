@@ -8,5 +8,10 @@ namespace zespolowy
         {
             Console.WriteLine("Hello World!");
         }
+
+        static string WypiszImie()
+        {
+            return "Dominik";
+        }
     }
 }
