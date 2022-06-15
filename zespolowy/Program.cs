@@ -13,5 +13,9 @@ namespace zespolowy
         {
             return "Dominik";
         }
+        static string WypiszImie2()
+        {
+            return "Filip";
+        }
     }
 }
